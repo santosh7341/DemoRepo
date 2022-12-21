@@ -9,7 +9,7 @@ public static void main(String[] args)
 	
 	for(int i:x)
 	{
-		System.out.println(x[i]);
+		System.out.println(i);
 	}
 	
 }
